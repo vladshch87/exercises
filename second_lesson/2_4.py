@@ -1,0 +1,6 @@
+first_role = input()
+second_role = input()
+third_role = input()
+separator = input()
+print('Who is John Galt?\n')
+print(first_role + ' ', ' ' + second_role + ' ', ' ' + third_role + ' ', sep = separator)
